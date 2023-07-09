@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # Use a Pre-trained Image Classifier to Identify Dog Breeds
 
 The main purpose of the project is to classify dogs and other animals as non-dogs
 
-This is my first project, studying Python on Udacity 
+This is my first project, studying Python on Udacity during the AWS AI & ML Scholarship course
 
 ## Installation
 
@@ -37,3 +38,6 @@ TODO: Udacity, Amazon AWS
 ## License
 
 TODO: Write license
+=======
+# Project0
+>>>>>>> 31e4323 (first commit)
